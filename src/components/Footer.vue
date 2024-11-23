@@ -35,6 +35,16 @@
             </a>
           </li>
         </ul>
+
+         <!-- CREDITS -->
+         <ul class="footer-list">
+          <li>
+            <p class="h4 footer-list-title">Developed by</p>
+          </li>
+          <li>
+            <a href="https://github.com/kostastepetes" class="footer-link">YOURS TRULY ⚡</a>
+          </li>
+        </ul>
   
       </div>
     </footer>
