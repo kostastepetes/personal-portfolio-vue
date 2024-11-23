@@ -42,7 +42,7 @@
             <p class="h4 footer-list-title">Developed by</p>
           </li>
           <li>
-            <a href="https://github.com/kostastepetes" class="footer-link">YOURS TRULY ⚡</a>
+            <a href="https://github.com/kostastepetes" class="footer-link">Yours Truly ⚡</a>
           </li>
         </ul>
   
