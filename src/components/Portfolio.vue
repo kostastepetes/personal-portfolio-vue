@@ -46,7 +46,7 @@
     setup() {
       // Portfolio items data
       const portfolioItems = ref([
-        { title: 'Creative Juice', description: '🥤 Creative Juice is an online platform that connects creative people and allows them to exchange knowledge and ideas online or face-to-face over coffee. Made with Vite + Vue 3 + Supabase + Bootstrap 5 + GSAP.', image: '/assets/portfolio-1.jpg', width: 600, height: 600 },
+        { title: 'Creative Juice', description: '🥤 Creative Juice is an online platform that connects creative people and allows them to exchange knowledge and ideas online or face-to-face over coffee. Made with Vite + Vue 3 + Supabase + Bootstrap 5 + GSAP.', image: '../src/assets/images/portfolio-1.png', width: 600, height: 600 },
         { title: 'sqky | CSS Library', description: '✨ sqky is a "squeaky clean" CSS library for elegant and efficient UIs made with SASS', image: '../src/assets/images/portfolio-2.jpg', width: 600, height: 600 },
         { title: 'grab.js', description: '🤝 A small (1.8 kB) and comprehensive AJAX Library.', image: '../src/assets/images/portfolio-3.jpg', width: 600, height: 600 },
         { title: 'Sheltered | Secure Video/Chat Hybrid App', description: '🎦 Sheltered is a hybrid application which allows pairs of users to securely and privately set-up and make video calls and chat over the internet. No registration or authorization is required. Developed as part of my University Thesis using web technologies like JavaScript, HTML5, and CSS and frameworks like React.js, Vue.js, Node.js, Express.js, TailwindCSS, Bootstrap as well as the Ionic framework (Capacitor). Associated with University Of Patras & Became a Paper at INTED2023🎓', image: '../src/assets/images/portfolio-4.jpg', width: 600, height: 600 },
