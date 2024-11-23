@@ -236,6 +236,7 @@
     display: flex;
     gap: var(--item-gap);
     transition: transform var(--cubic-ease-out);
+    max-height: 310px;
   }
   
   .slider-item {
@@ -884,3 +885,12 @@
     .hero .section-text { margin-block-end: 52px; }
   
   }
+
+
+  @media only screen and (max-width: 600px) {
+    .slider-container {
+      max-height: 200px;
+    }
+  }
+
+  
