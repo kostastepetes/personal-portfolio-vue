@@ -11,7 +11,7 @@
           <div class="hero-banner">
             <img
               src="../assets/images/hero-banner.jpg"
-              loading="lazy"
+              loading="eager"
               class="w-[500px] h-auto"
               alt="kostas tepetes"
             />
