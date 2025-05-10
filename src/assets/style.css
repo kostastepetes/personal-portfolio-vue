@@ -891,6 +891,7 @@
     .slider-container {
       max-height: 300px;
     }
+    .hero-banner {
+      display: none;
+    }
   }
-
-  
