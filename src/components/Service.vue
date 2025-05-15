@@ -65,8 +65,8 @@
   
   // Services data
   const services = [
-    { icon: 'desktop-outline', title: 'Web Development', description: 'Websites, Web Apps/SAAS', number: '01' },
-    { icon: 'basket-outline', title: 'eCommerce', description: 'Woocommerce, Shopify, Magento', number: '02' },
+    { icon: 'desktop-outline', title: 'Web Development', description: 'Websites, Web Apps/SaaS', number: '01' },
+    { icon: 'basket-outline', title: 'eCommerce', description: 'Woocommerce, Shopify', number: '02' },
     { icon: 'podium-outline', title: 'Web Design', description: 'Figma, Framer', number: '03' },
     { icon: 'color-filter-outline', title: 'Enterprise Software', description: 'Adobe, Salesforce & Wordpress Ecosystem', number: '04' },
     { icon: 'megaphone-outline', title: 'SEO Marketing', description: 'Web Performance, Content, Keywords, Links, Sitemap', number: '05' },
