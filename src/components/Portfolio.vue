@@ -133,20 +133,20 @@ export default {
         url: 'https://expresstransferparos.com/' 
       },
       { 
-        title: 'Psychologist Website', 
-        description: '👨‍⚕️ A website for a psychologist’s office, designed and developed using Vue.js and TailwindCSS.', 
-        image: new URL('../assets/images/portfolio-7.jpg', import.meta.url).href, 
-        width: 600, 
-        height: 600,
-        url: 'https://jasonsinos.netlify.app/' 
-      },
-      { 
         title: 'Civil Engineering Firm Website', 
         description: '👷‍♂️ A website designed and developed for a civil engineering firm.', 
         image: new URL('../assets/images/portfolio-8.jpg', import.meta.url).href, 
         width: 600, 
         height: 600,
         url: 'https://www.tepetes-panagiotopoulou.com/' 
+      },
+      { 
+        title: 'Psychologist Website', 
+        description: '👨‍⚕️ A website for a psychologist’s office, designed and developed using Vue.js and TailwindCSS.', 
+        image: new URL('../assets/images/portfolio-7.jpg', import.meta.url).href, 
+        width: 600, 
+        height: 600,
+        url: 'https://jasonsinos.netlify.app/' 
       },
       { 
         title: '3D Printing Company Website', 
