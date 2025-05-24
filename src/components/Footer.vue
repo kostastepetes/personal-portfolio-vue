@@ -8,7 +8,7 @@
             <p class="h4 footer-list-title">Get in touch</p>
           </li>
           <li>
-            <a href="mailto:info@kwilliams.com" class="footer-link">ktepetes9@gmail.com</a>
+            <a href="mailto:info@kwilliams.com" class="footer-link">Email me!</a>
           </li>
         </ul>
   
