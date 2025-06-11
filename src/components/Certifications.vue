@@ -25,7 +25,7 @@
             <li>Wordpress for Beginners by Udemy</li>
             <li>Spline Design: Create Objects, Scenes and Animations in 3D by Udemy</li>
             <li>The Complete Graphic Design Theory for Beginners Course by Udemy</li>
-            <li>6x Salesforce Marketing Cloud certified by Salesforce</li>
+            <li>7x Salesforce Marketing Cloud certified by Salesforce</li>
           </ul>
         </div>
       </div>
