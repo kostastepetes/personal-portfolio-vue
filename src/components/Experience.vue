@@ -23,7 +23,7 @@
             <li>
               Automations using <strong>SQL</strong>.
             </li>
-            <li>6x Salesforce Marketing Cloud certified.</li>
+            <li>7x Salesforce Marketing Cloud certified.</li>
             <li>
               Collaborating with a large team of developers, both from Greece and Italy.
             </li>
